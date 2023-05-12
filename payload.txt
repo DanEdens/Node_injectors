@@ -1,0 +1,1 @@
+[{"id":"80de4525.603ca8","type":"inject","z":"93795807.cf15c8","name":"TEMP","props":[{"p":"payload"}],"repeat":"","crontab":"","once":false,"onceDelay":0.1,"topic":"","payload":"var=:=Task TEMP","payloadType":"str","x":460,"y":620,"wires":[["57485638.78a358"]]}]
